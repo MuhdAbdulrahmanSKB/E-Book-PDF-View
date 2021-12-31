@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Dream</string>
+
+    <string name="quran_hadith_history_more"><![CDATA[Quran,Hadith,History & more]]></string>
+    <string name="MainActivityLabel">MainData</string>
+    <string name="MainActivity2Label">MainData</string>
+    <string name="MainActivity3Label">MainData</string>
+    <string name="MainActivity4Label">MainData</string>
+    <string name="MainActivity5Label">MainData</string>
+    <string name="MainActivity6Label">MainData</string>
+
+    <string-array name="Stories_name">
+        <item>Why i love Java</item>
+        <item>I hate chatting</item>
+        <item>I hate chatting</item>
+        <item>I hate chatting</item>
+        <item>I hate chatting</item>
+        <item>I hate chatting</item>
+        <item>I hate chatting</item>
+        <item>story 3</item>
+    </string-array>
+
+    <string-array name="Stories_name2">
+        <item>Why i love Java</item>
+        <item>I hate chatting</item>
+        <item>I hate chatting</item>
+        <item>I hate chatting</item>
+        <item>I hate chatting</item>
+        <item>I hate chatting</item>
+        <item>I hate chatting</item>
+        <item>I hate chatting</item>
+        <item>story 3</item>
+    </string-array>
+
+    <string-array name="Stories_name3">
+        <item>Why i love Java</item>
+        <item>I hate chatting</item>
+        <item>I hate chatting</item>
+        <item>I hate chatting</item>
+        <item>I hate chatting</item>
+        <item>I hate chatting</item>
+        <item>I hate chatting</item>
+        <item>story 3</item>
+    </string-array>
+
+    <string-array name="Stories_name4">
+        <item>Why i love Java</item>
+        <item>I hate chatting</item>
+        <item>story 3</item>
+    </string-array>
+
+    <string-array name="Stories_name5">
+        <item>Why i love Java</item>
+        <item>I hate chatting</item>
+        <item>story 3</item>
+    </string-array>
+
+    <string-array name="Stories_name6">
+        <item>Why i love Java</item>
+        <item>I hate chatting</item>
+        <item>story 3</item>
+    </string-array>
+</resources>

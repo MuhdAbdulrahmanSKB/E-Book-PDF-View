@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="skb.theskebbiapps.dream">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Dream">
+        <activity android:name=".DeveloperInfo"
+            android:label="Developers Info"
+            android:screenOrientation="portrait" />
+        <activity android:name=".ListActivites.MainActivity2"
+            android:label="@string/MainActivity2Label"
+            android:screenOrientation="portrait" />
+        <activity android:name=".ListActivites.MainActivity3"
+            android:label="@string/MainActivity3Label"
+            android:screenOrientation="portrait" />
+        <activity android:name=".ListActivites.MainActivity4"
+            android:label="@string/MainActivity4Label"
+            android:screenOrientation="portrait" />
+        <activity android:name=".ListActivites.MainActivity5"
+            android:label="@string/MainActivity5Label" />
+        <activity android:name=".ListActivites.MainActivity6"
+            android:label="@string/MainActivity6Label"
+            android:screenOrientation="portrait" />
+        <activity android:name=".Dashboard" />
+        <activity android:name=".ListActivites.MainActivity"
+            android:label="@string/MainActivityLabel"
+            android:screenOrientation="portrait" />
+        <activity android:name="skb.theskebbiapps.dream.PDFViewer.PdfViewer" />
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
